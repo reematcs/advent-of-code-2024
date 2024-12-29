@@ -1,0 +1,5 @@
+# .gitignore
+.env
+*.mod
+*.sum
+launch.json
